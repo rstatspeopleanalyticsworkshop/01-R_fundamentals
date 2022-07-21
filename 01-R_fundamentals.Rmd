@@ -1,5 +1,5 @@
 ---
-title: "1 Solutions - R Fundamentals"
+title: "1 - R Fundamentals"
 output: html_document
 ---
 
@@ -126,6 +126,13 @@ url <- "https://peopleanalytics-regression-book.org/data/charity_donation.csv"
 # EXTENSION: If you know ggplot2, use it to create a boxplot of
 # total donations grouped by gender.
 
+
+
+```
+
+```{r}
+# EXTENSION: Run a pairplot to see if you can identify interesting patterns
+# in the charity_data dataset.  Remember to consider the data types.
 
 
 ```
